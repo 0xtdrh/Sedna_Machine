@@ -10,14 +10,24 @@
     <center><h2 style="margin-top: -100px;font-size: 50px;color: brown;">Walkthrough</h2></center>
 
     <h1 style="font-size: 50px;">Lets Start With Nmap</h1>
+    
     <p style="font-size: 40px;margin-left: 60px;">nmap -A  -p-  -T4  -sV  --script  vuln  [ip]</p>
+    
     <img style="margin-left: 60px;" src="./nmap_command.png" alt="">
+    
     <h1 style="font-size: 50px;">The Open Ports</h1>
+    
     <img style="margin-left: 60px;" src="./ports.png" alt="">
+
+    
     <p style="font-size: 40px;margin-left: 60px;">Note : There Is Website </p>
+    
     <h1 style="font-size: 50px;">Website</h1> 
+    
     <img style="margin-left: 60px;" src="./Welcom_sedna.png" alt="">
+    
     <h1 style="font-size: 50px;">Search Directories</h1> 
+    
     <p style="font-size: 40px;margin-left: 60px;">dirb    [ip] </p>
     <img style="margin-left: 60px;" src="./dirb.png" alt="">
     <h1 style="font-size: 50px;">Result Of Search Directories</h1> 
